@@ -5,3 +5,4 @@
  -  - globalconfig --global.email "your email"
  -  - globalconfig --global.name "Your Name"
  
+Text done for now
